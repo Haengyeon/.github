@@ -13,13 +13,13 @@
 ---
 # ✨ Features & Demo
 
-| **온보딩** | **기본 정보 입력** | **취향 관심사 입력** | **수락·결제** |
-|:----------------:|:----------------:|:----------------:|:----------------:|
-| <img width="200" alt="KakaoTalk_Photo_2026-09-27-12-03-24" src="https://github.com/user-attachments/assets/b2cf6cc9-6080-4304-a09a-1cf2ef1c3172" />| <img width="200"  alt="KakaoTalk_Photo_2026-09-27-11-55-38 008" src="https://github.com/user-attachments/assets/d7ed091c-b558-4cf3-9238-946f58dd669e" /> | <img width="200"  alt="KakaoTalk_Photo_2026-09-27-11-55-35 001" src="https://github.com/user-attachments/assets/13bbbe5e-1fad-4006-b49d-cd4ae1fa0598" /> | <img width="200" alt="KakaoTalk_Photo_2026-09-27-11-55-38 009" src="https://github.com/user-attachments/assets/b14e64f9-576e-4ef9-962e-a1b3487bf4fc" /> |
+| **온보딩** | **기본 정보 입력** | **취향 관심사 입력** | **수락·결제** |**매칭 조건 설정** |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+| <img width="130" alt="KakaoTalk_Photo_2026-09-27-12-03-24" src="https://github.com/user-attachments/assets/b2cf6cc9-6080-4304-a09a-1cf2ef1c3172" />| <img width="130"  alt="KakaoTalk_Photo_2026-09-27-15-39-53 002" src="https://github.com/user-attachments/assets/290cbfb3-5dc9-4bfd-b1b1-bdc77716327d" /> |<img width="130" alt="KakaoTalk_Photo_2026-09-27-15-39-53 001" src="https://github.com/user-attachments/assets/01eba829-7002-458a-9db5-26762d531b54" /> |<img width="130" alt="KakaoTalk_Photo_2026-09-27-15-39-54 003" src="https://github.com/user-attachments/assets/363c9442-9538-44f8-a067-3dbf0a5d409b" /> | <img width="130" alt="KakaoTalk_Photo_2026-09-27-15-39-55 005" src="https://github.com/user-attachments/assets/efdebb00-9b2b-4100-baa2-0ae10f7f5d67" />  |
 
-| **매칭 조건 설정** | **테마 선택** | **코스** | **채팅** |
-|:----------------:|:----------------:|:----------------:|:----------------:|
-| <img width="200" alt="KakaoTalk_Photo_2026-09-27-11-55-36 002" src="https://github.com/user-attachments/assets/78d35994-878c-4c39-a8fa-6ba83efd34f3" /> | <img width="200" alt="KakaoTalk_Photo_2026-09-27-11-55-36 003" src="https://github.com/user-attachments/assets/f1e9f784-934b-4e94-a55b-c35602d9ce8c" /> | <img width="200"  alt="KakaoTalk_Photo_2026-09-27-11-55-37 005" src="https://github.com/user-attachments/assets/d9cba0ee-7d4e-44df-bbf3-a68ad63c8547" />| <img width="200"  alt="KakaoTalk_Photo_2026-09-27-11-55-37 006" src="https://github.com/user-attachments/assets/d936e8b1-485d-4c0a-acb2-24bd9ae670cf" /> |
+| **테마 선택** | **코스, 스탬프** | **코스(지도)** | **채팅** | **후기, AI영상** |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+| <img width="130"  alt="KakaoTalk_Photo_2026-09-27-11-55-36 003" src="https://github.com/user-attachments/assets/f1e9f784-934b-4e94-a55b-c35602d9ce8c" /> | <img width="130" alt="KakaoTalk_Photo_2026-09-27-15-59-44" src="https://github.com/user-attachments/assets/e312846a-af93-4721-9cb7-e807a1865165" /> | <img width="130" alt="KakaoTalk_Photo_2026-09-27-15-54-30" src="https://github.com/user-attachments/assets/a1c64af9-3f16-4c62-9a7e-604c767d6d67" />| <img width="130"  alt="KakaoTalk_Photo_2026-09-27-11-55-37 006" src="https://github.com/user-attachments/assets/d936e8b1-485d-4c0a-acb2-24bd9ae670cf" /> |<img width="130" alt="KakaoTalk_Photo_2026-09-27-15-39-57 007" src="https://github.com/user-attachments/assets/67c0ef9c-f696-4894-9ffd-12fd20a3375a" /> |
 
 ---
 # 🖥️ System Architecture
