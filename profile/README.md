@@ -65,6 +65,13 @@
 </p>
 
 <p align="center">
+<strong>Collaboration</strong><br><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,notion" />
+</a>
+</p>
+
+<p align="center">
 <strong>External API</strong><br><br>
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/e/e3/KakaoTalk_logo.svg"
@@ -93,13 +100,6 @@
   alt="OpenAI API"
   title="OpenAI API"
 />
-</p>
-
-<p align="center">
-<strong>Collaboration</strong><br><br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,notion" />
-</a>
 </p>
 
 # 🗄️ DataBase
