@@ -24,48 +24,86 @@
 ---
 # 🖥️ System Architecture
 <p align="center">
-<img width="1205" height="674" alt="Image" src="TODO: 아키텍처 다이어그램 URL" />
+<img width="1027" height="757" alt="Image" src="https://github.com/user-attachments/assets/ec4bebd0-5db2-41ce-b8a8-23b872ec0cee" />
 </p>
 
 # 🛠️ Tech Stack
 
 <p align="center">
-<strong> Frontend <br></strong>
+<strong>Frontend</strong><br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" />
 </a>
 </p>
 
 <p align="center">
-<strong> Backend <br></strong>
+<strong>Backend & Database</strong><br><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres" />
 </a>
+&nbsp;
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"
+  height="48"
+  alt="Swagger"
+  title="Swagger"
+/>
 </p>
 
 <p align="center">
-<strong> Database <br></strong>
+<strong>Infra</strong><br><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,docker,firebase" />
 </a>
+&nbsp;
+<img
+  src="https://cdn.simpleicons.org/googlecloudstorage/4285F4"
+  height="48"
+  alt="Google Cloud Storage"
+  title="Google Cloud Storage"
+/>
 </p>
 
 <p align="center">
-<strong> External API <br></strong>
-<img src="https://img.shields.io/badge/Kakao_Login-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
-<img src="https://img.shields.io/badge/Kakao_Pay-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
-<img src="https://img.shields.io/badge/한국관광공사_TourAPI-0F9D58?style=flat-square" />
+<strong>External API</strong><br><br>
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/e/e3/KakaoTalk_logo.svg"
+  width="64"
+  height="64"
+  alt="Kakao Login"
+  title="Kakao Login"
+/>&nbsp;&nbsp;
+<img
+  src="https://play-lh.googleusercontent.com/hOXXHuezGl0ur3l7EWTdwEAyybjZQn6ayMokEL_XMV3UJuvLfUrefgovyrngh2UTsT4TvdniwYkqDTkVaBqywv4=w240-h480"
+  width="64"
+  height="64"
+  alt="Kakao Pay"
+  title="Kakao Pay"
+/>&nbsp;&nbsp;
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Korea-Tourism-Organization-en.svg"
+  height="52"
+  alt="TourAPI"
+  title="한국관광공사 TourAPI"
+/>&nbsp;&nbsp;
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg"
+  width="64"
+  height="64"
+  alt="OpenAI API"
+  title="OpenAI API"
+/>
 </p>
 
 <p align="center">
-<strong> Tool <br></strong>
+<strong>Collaboration</strong><br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,notion" />
 </a>
 </p>
 
 # 🗄️ DataBase
-<img width="750" alt="DB ERD" src="TODO: ERD 이미지 URL" />
+<img width="3342" height="3115" alt="Image" src="https://github.com/user-attachments/assets/2444d426-3929-42de-9227-f225a15ca750" />
 
 # 📤 API
 
