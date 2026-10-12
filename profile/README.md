@@ -1,14 +1,7 @@
 # 🧭 HAENGYEON 행연
 > **관광지를 함께 걷는 여행 동행 매칭 앱**
 
-<p align="center">
-<img width="1920" height="1080" alt="Image" src="TODO: 배너 이미지 URL" />
-</p>
-
-<!--
----
-# 🧑🏼‍💻 How To Start
-🔗 [www.haengyeon.site](https://www.haengyeon.site) -->
+🔗 [www.haengyeon.site](https://www.haengyeon.site) 
 
 ---
 # ✨ Features & Demo
@@ -205,5 +198,4 @@
 
 | [김가을](https://github.com/fallkim) | [곽소정](https://github.com/ssojungg) | [장정운](https://github.com/jeongwoonjjang) |
 |--------------------------------------|----------------------------------------|--------------------------------------------|
-| <img width="210" alt="김가을" src="TODO"/> | <img width="210" alt="곽소정" src="TODO"/> | <img width="210" alt="장정운" src="TODO"/> |
 | <div align="center">`Back-end`</div> | <div align="center">`Back-end`</div> | <div align="center">`Front-end`</div> |
