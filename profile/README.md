@@ -1,7 +1,7 @@
 # 🧭 HAENGYEON 행연
 > **관광지를 함께 걷는 여행 동행 매칭 앱**
 
-🔗 [www.haengyeon.site](https://www.haengyeon.site) 
+🔗 [https://www.haengyeon.site ](https://haengyeon.site/)
 
 ---
 # ✨ Features & Demo
